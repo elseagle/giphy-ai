@@ -1,0 +1,16 @@
+Flask
+Jinja2
+MarkupSafe
+Werkzeug
+certifi
+chardet
+click
+gunicorn
+idna
+itsdangerous
+pip
+requests
+setuptools
+urllib3
+apiai
+numpy
